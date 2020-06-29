@@ -47,6 +47,7 @@ A aplicaçã está rodando no [Cloud Run](https://cloud.google.com/run?&utm_sour
 - O padrão do **SpringBoot Seciruty** é retornar `403` quando a validação falha. Por simplicidade este comportamento não foi alterado para um `401`.
 - Por simplicidade foi utilizado como banco de dados o **H2**
 - A url do console do H2 está liberada para fins de conferência.
+- Por simplicidade não foi adicionado mais funcionalidades no sistema, como por exemplo paginação da busca no github, busca por repositórios que foram favoritados, favoritos do usuátio etc.
 
 ### `Informações de Acesso`
 
