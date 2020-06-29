@@ -125,11 +125,6 @@
         <groupId>com.google.cloud.tools</groupId>
         <artifactId>jib-maven-plugin</artifactId>
         <version>2.4.0</version>
-        <configuration>
-          <to>
-            <image>gcr.io/vancolar-66715/githubrepo</image>
-          </to>
-        </configuration>
       </plugin>
     </plugins>
   </build>
